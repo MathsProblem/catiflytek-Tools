@@ -21,4 +21,8 @@ yyb‘s 🐧QQ:3685040076
 
 sym‘s 🐧QQ:2490504898
 
+## ⬇️下载
+
+https://github.com/MathsProblem/catiflytek-Tools/releases/tag/Catiflytek_Tools
+
 ## ❗可以点个Star吗？
