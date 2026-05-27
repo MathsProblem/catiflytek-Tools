@@ -1,4 +1,4 @@
-# Catiflytek · 科大讯飞学习机工具箱 V6.1
+# Catiflytek · 科大讯飞学习机工具箱 V6.1-R2 ADB Pro Tools PC
 
 ## ❔我们有什么功能？
 
@@ -22,7 +22,6 @@ yyb‘s 🐧QQ:3685040076
 sym‘s 🐧QQ:2490504898
 
 ## ⬇️下载
-
-https://github.com/MathsProblem/catiflytek-Tools/releases/tag/Catiflytek_Tools
+https://github.com/MathsProblem/catiflytek-Tools/releases
 
 ## ❗可以点个Star吗？
