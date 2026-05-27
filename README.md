@@ -1,3 +1,8 @@
+<div align="center">
+
+# Catiflytek Pro ADB Tools PC v6.1_R2
+[![Manager CI](https://github.com/caofangkuai/ZybAdbHelper/actions/workflows/manager-ci.yml/badge.svg?branch=main)](https://github.com/caofangkuai/ZybAdbHelper/actions/workflows/manager-ci.yml)
+
 # Catiflytek · 科大讯飞学习机工具箱 V6.1-R2 ADB Pro Tools PC
 
 ## ❔我们有什么功能？
@@ -25,3 +30,6 @@ sym‘s 🐧QQ:2490504898
 https://github.com/MathsProblem/catiflytek-Tools/releases
 
 ## ❗可以点个Star吗？
+
+</div>
+
